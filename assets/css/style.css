@@ -8,9 +8,10 @@ body {
     background-color: #d9dcd6;
 }
 
-/* this is a CSS selector for an element that has a  
-/* what does the dot mean*/
-/* the dot represent a class */
+
+
+/* the dot was removed as the class was removed from html, whatever was changed in the html, the css linked to that was changed */
+
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -26,7 +27,7 @@ header h1 {
 header h1 .seo {
     color: #d9dcd6;
 }
-
+/* this was changed to nav from div */
 header nav {
     padding-top: 15px;
     margin-right: 20px;
@@ -197,7 +198,7 @@ footer {
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-align: center;
 }
-
-footer h2 {
+/* chnaged the footer h2 in html that is why it was changed here to p */
+footer p {
     font-size: 20px;
 }
