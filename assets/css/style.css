@@ -4,6 +4,8 @@
     margin: 0;
 }
 
+
+
 body {
     background-color: #d9dcd6;
 }
@@ -198,7 +200,8 @@ footer {
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-align: center;
 }
-/* chnaged the footer h2 in html that is why it was changed here to p */
+/* changed the footer h2 in html that is why it was changed here (css) to p */
 footer p {
     font-size: 20px;
 }
+
