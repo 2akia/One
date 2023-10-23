@@ -27,8 +27,24 @@ It helps companies avoid legal complications that may arise when people cannot a
 
 
 # Installation
-To get started with this project, you can clone the repository to your local machine.
+
+1. To get started with this project, you can clone the repository to your local machine.
+2. Navigate to the project directory
+3. Install the required software components
+4. Start the application
 
 # License
 
-This project is licensed under the MIT License.
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+
+
+> [!NOTE]
+> **Support:**
+
+If you have any questions or need assistance, feel free to reach out to me by [email](support@yourproject.com).
+
+
+
+> [!IMPORTANT]
+>
