@@ -60,9 +60,18 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 > [!NOTE]
 
-> **Support:**
+#### Support 
 
 If you have any questions or need assistance, feel free to reach out to me on my email 2akssultana@gmail.com.
 
 > [!IMPORTANT]
->
+
+The tools that have been added in this project:
+
+- Semantic HTML elements added
+- Application's CSS file is properly commented
+- Accessible `alt` attributes added
+- Heading attributes in sequential order
+- Descriptive titles checked
+- Application links checked
+- Test run of the application loading checked
