@@ -4,15 +4,17 @@ Hello!! Great to have you here!! Let's dive in.
 
 ## Table of Contents:
 * [Introduction](#introduction)
-* [Installation](Installation)
-* [Resources](Resources)
-* [License](License)
+* [Installation](#installation)
+* [Resources](#resources)
+* [License](#license)
 
 
 ## Introduction
 SEO is about helping search engines understand and improve visibility. That is exactly the reason this website was created.
 
-With our guidance we will potentially improve your site and save time, whilst making it more accessible for users.
+With the right tools we will potentially improve the site and save time, whilst making it more accessible for users.
+
+### Benefits of SEO:
 
 - Global Reach
 - Review of your site content/structure
@@ -60,7 +62,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 > **Support:**
 
-If you have any questions or need assistance, feel free to reach out to me on my 2akssultana@gmail.com.
+If you have any questions or need assistance, feel free to reach out to me on my email 2akssultana@gmail.com.
 
 > [!IMPORTANT]
 >
